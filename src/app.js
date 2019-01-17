@@ -1,5 +1,3 @@
-console.log("app.js1");
-
 import React, { Component } from "react";
 
 
