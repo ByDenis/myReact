@@ -1,0 +1,13 @@
+{
+  "name": "myReact",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build-dev": "webpack --mode development --watch",
+    "build": "webpack --mode production"
+  },
+  "keywords": [],
+  "author": "ByDenis <dstetskiy@live.com> (bydenis.com)",
+  "license": "ISC"
+}
